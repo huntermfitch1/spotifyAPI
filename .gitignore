@@ -133,3 +133,6 @@ credentials.yml
 
 # PyCharm files
 .idea/
+
+# Generated csv files
+pitchfork_audio_features.csvs
